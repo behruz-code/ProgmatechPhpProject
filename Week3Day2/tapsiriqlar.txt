@@ -1,0 +1,20 @@
+week03Day02 folderinin içərisində olan chess_board.png şəklini php/html/css vasitəsi ilə yaratmaq. Sadəcə ağ qara tabları ardıcıllıqla düzmək tələb olunur. Loop vasitəsi ilə edə bilərsiniz.
+Sadə bir blog sistemi yaratmaq :) .
+istifadəçi qeydiyyatdan keçir və hesaba daxil olur. Qeydiyyat zamanı aşağıdakı inputlar lazımdır.
+Ad,
+Soyad
+Email
+Parol
+Parol təsdiqlənməsi
+Daxil olduqdan sonra isə blog listini görməlidir. Listdə (və ya table) açağıdakı məlumatlar görünməlidir.
+Başlıq
+Bloqu yazan şəxsin adı
+Bloqun yaranma tarixi
+Ətraflı düyməsi (Bloq səhifəsinə keçib ətraflı baxmaq üçün)
+Bloq listində ona bloq yazmaq üçün form və ya forma keçid üçün (Bloq yarat) düymə görünür. Blog üçün aşağıdakı inputlar yazılmalıdır.
+Başlıq
+Bloqun mətni
+Təqlər (Bloqun aid olduğu təqlər)
+Blogun yaranma tarixi avtomatik olarq sistem tərəfindən yadda saxlanacaq.
+Bloq yazılıb yadda saxlanılandan sonra artıq bloq listində görünməlidir.
+Week04-Day01

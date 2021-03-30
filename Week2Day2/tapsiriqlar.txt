@@ -1,0 +1,12 @@
+Login formu yazmaq.
+Inputlar: Ad, Soyad, email, parol, parolun təsdiqi.
+Form methodu yoxlanmalıdır, əgər post request gəlmirsə error qaytarmalıdır.
+Hər bir inputda validation olacaq. Email validation php filter vasitəsi ilə edilməlidir.
+Login ola biləcək user emailləri array şəklində qeyd ediləcək.
+User email vasitəsi ilə login olacaq və login zamanı bizim arrayda varsa loginə icazə veriləcək və sessiyada saxlanacaq. Əks halda "Siz qeydiyyatdan keçməmisiniz" erroru çıxaracaq.
+Rəqəmləri filtrləmək üçün funksiya yazmaq.
+Biz istədiyimiz string, integer, float və s. göndərdikdə funksiya bizə ancaq onların daxilində olan rəqəmləri qaytarmalıdır. Əgər bu mümkün deyilsə 0 qaytarmalıdır.
+Sadə bir kalkulyator funlsiyası yazmaq
+Misal üçün: calculator(5, '+', 6) // output = 11 calculator(2, '*', 7) // output = 14 və s.
+Linkə daxil olarkən userin hansı əməliyyat sistemi, brauzeri və daxil olduğu vasitəni (device) ekranda yazmalıdır.
+Misal: Siz android smartfonu və chrome brauzeri ilə daxil olmusunuz (Və ya sizə necə uyğundur yazmaq).

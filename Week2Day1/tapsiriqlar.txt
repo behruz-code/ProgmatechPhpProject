@@ -1,0 +1,5 @@
+form yaratmaq. İnputlar Ad, Soyad, email, telefon, parol, cins daxil etmək. email və telefon validationlar və hər bir inputa görə bir neçə error (errorlar ardıcıl olmalıdır. Misal üçün birinci input boş olmağı yoxlamaq sonra digərləri.) göstərə bilmək.
+Şərtlərdə eyni dəyərə sahib olan "data type" - ləri list şəklində yazmaq. Misal: null == false;
+Associative array və numeric arrayın fərqinin izahı.
+Constant və adi variablelərin mənasını izah etmək.
+Arraya istənilən indexdə element əlavə etmək.
